@@ -1,0 +1,2 @@
+parameters are values which is defined inside the function
+arguments are the value they are defined in the function call
